@@ -1,0 +1,9 @@
+{
+  "name": "Japanese Learning App",
+  "short_name": "日本語",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#005bb5",
+  "icons": [{ "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" }]
+}
